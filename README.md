@@ -5,11 +5,10 @@
 
 
 ## Get started
-We run with Python 3.8 and CUDA 11.5, you can setup a conda environment:
+You can setup a conda environment:
 ```
-conda create -n hfhnerv python=3.8
-conda activate hfhnerv
-pip install torch==1.11.0+cu115 torchvision==0.12.0+cu115 torchaudio==0.11.0 --extra-index-url  https://download.pytorch.org/whl/cu115
+conda create -n rchnerv python=3.8
+conda activate rchnerv
 pip install -r requirements.txt
 ```
 
