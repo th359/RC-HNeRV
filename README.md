@@ -2,8 +2,8 @@
 ### [Paper] | [DAVIS Data](https://davischallenge.org/)
 
 ## Method overview
-(a) NeRV, (b) HNeRV, (c) Proposed
-<img src='./assets/all_pipeline.png' height='450'>
+(a) NeRV, (b) HNeRV, (c) Proposed<br>
+<img src='./assets/all_pipeline.png' width='700'>
 
 ## Get started
 You can setup a conda environment:
@@ -41,10 +41,10 @@ lr = 0.00099
 <img src='./assets/table.png'>
 
 ### Visualization of reconstruced vidos
-<img src='./assets/results.png'>
+<img src='./assets/results.png' width='700'>
 
 ### Video compression results
-<img src='./assets/rd_psnr_msssim.png'>
+<img src='./assets/rd_psnr_msssim.png' width='700'>
 
 ## Contact
 If you have any questions, please feel free to email the authors: hayatai17@fuji.waseda.jp
