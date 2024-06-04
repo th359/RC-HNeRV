@@ -37,6 +37,9 @@ lr = 0.00099
 ```
 
 ## Result
+### Comparison of reconstruced vidos
+<img src='./assets/table.png'>
+
 ### Visualization of reconstruced vidos
 <img src='./assets/results.png'>
 
