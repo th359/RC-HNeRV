@@ -41,7 +41,7 @@ lr = 0.00099
 <img src='./assets/table.png'>
 
 ### Visualization of reconstruced vidos
-<img src='./assets/results_ex.png' width='700'>
+<img src='./assets/cat2.png' width='700'>
 
 ### Video compression results
 <img src='./assets/rd_psnr_msssim.png' width='700'>
