@@ -1,5 +1,5 @@
 # Inplicit Neural Representations for Videos Based on Residual Connection
-### [Paper] | [DAVIS Data](https://davischallenge.org/)
+### [Paper](https://arxiv.org/abs/2407.06164) | [DAVIS Data](https://davischallenge.org/)
 
 ## Method overview
 (a) NeRV, (b) HNeRV, (c) Proposed<br>
